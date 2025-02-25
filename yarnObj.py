@@ -10,3 +10,4 @@ class Yarn:
         self.tools = tools
         # if pulling from multiple catalogs/making stuff up, could add a company/manufacturer
 
+    def __eq__(self):
